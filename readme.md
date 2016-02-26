@@ -2,21 +2,17 @@
 
 Setup for building an electron app with React
 
-Forked from https://github.com/hokein/electron-sample-apps
+Useful electron examples: https://github.com/hokein/electron-sample-apps
 
-<img src='assets/epp.png' width=256 />
-
-Electron aPPlication
+# Technologies used
 
 - photon
-- coffeescrirpt (cjsx)
 - electron
 - react
 - react-router
 - webpack
 
 ![screenshot]
-
 
 ## Dev
 
@@ -29,7 +25,6 @@ $ npm install
 $ npm start
 ```
 
-
 ### Build
 
 ```sh
@@ -38,11 +33,10 @@ $ npm run build-osx  # osx(64)
 $ npm run build-win  # win(32, 64)
 ```
 
+## Prior Art
 
-## License
+This is forked from https://github.com/react-photonkit/epp
 
 MIT © react-photonkit
-
-
 
 [screenshot]: assets/screenshot.png
